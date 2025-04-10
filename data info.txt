@@ -1,0 +1,4 @@
+Lecturer email: work email '@lifechoices.co.za'
+Login password: lecturer07
+workspace: sean_ntlabathi
+application: Module 4 core project
